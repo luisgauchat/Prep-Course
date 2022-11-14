@@ -1,0 +1,6 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+for: es un bucle repetitivo que en su cabecera se declaran tres valores: variable en cero, tope de iteraciones, incrementos de variable inicial
+&&: operador logico "y" que permite evaluar una condicion. Si dos expresiones TRUE se unen con este operador el resultado va a ser TRUE. Si una de ellas es FALSE el resultado va a ser FALSE. Si ambas son FALSE el resultado es TRUE.
+||: operador logico "o". Si una expresion es TRUE otra TRUE = TRUE. Si TRUE-FALSE =  TRUE. Si FALSE Y FALSE = FALSE.
+! : negacion, invierte el resultado de cualquier expresion booleana, es decir que si la expresion es TRUE, el resultado devuelto va a ser FALSE
