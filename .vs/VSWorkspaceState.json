@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\02-JS-I",
+    "\\02-JS-I\\homework",
+    "\\03-JS-II",
+    "\\03-JS-II\\homework"
   ],
+  "SelectedNode": "\\03-JS-II\\homework\\homework.js",
   "PreviewInSolutionExplorer": false
 }
