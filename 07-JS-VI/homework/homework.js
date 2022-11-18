@@ -29,6 +29,7 @@ function sumarArray(numeros, cb) {
   var suma = numeros.reduce(function(acc, curr){
     return acc = acc + curr;
   });
+
   cb(suma);
 }
 
@@ -56,6 +57,16 @@ function filter(array) {
   //Filtrar todos los elementos del array que comiencen con la letra "a".
   //Devolver un nuevo array con los elementos que cumplen la condición
   //Tu código:
+    var nuevoarray = []; 
+
+    array.map(function(elemento){
+    if(elemento.charAt(0) == 'a'){
+       nuevoarray.push = elemento;
+       return nuevoarray;
+    }
+     })
+
+     return nuevoarray;
 }
 
 // No modificar nada debajo de esta línea
@@ -70,3 +81,4 @@ module.exports = {
   map,
   filter
 };
+
