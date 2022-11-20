@@ -61,8 +61,7 @@ function filter(array) {
 
     array.map(function(elemento){
     if(elemento.charAt(0) == 'a'){
-       nuevoarray.push = elemento;
-       return nuevoarray;
+       nuevoarray.push(elemento);
     }
      })
 
