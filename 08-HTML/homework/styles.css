@@ -4,5 +4,19 @@
     font-size: 18px; margin: 10px;
 }
 #thirdDiv{
-    height: 600px; width: 500px; color:green; padding: 50px; border: 15p; border-color: yellow; border-width: 20px;
+    height: 500px; width: 600px; 
+    background-color:rgb(196, 243, 196); 
+    padding: 50px; 
+    border: 12px solid brown; 
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+
+h1{
+    color: red;
+}
+img{
+    width: 400px;
 }
